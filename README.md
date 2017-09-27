@@ -1,5 +1,12 @@
 # facebook-realtime
 
+## Installations
+
+### Install Anaconda for scientific computing
+1. Download [Miniconda](https://repo.continuum.io/miniconda/Miniconda2-latest-MacOSX-x86_64.sh), Using Python 2. Miniconda loads some of the basic packages for python programming.
+2. bash Anaconda2-4.1.1-MacOSX-x86_64.sh
+
+
 ## Graph API Webhook Topics
 * Application
 * User
